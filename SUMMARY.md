@@ -1,6 +1,6 @@
-# Summary
+# Summary(README.md)
 
 * [Blues](README.md)
-    *[NGINX]
-        *[阅读官方文档]
-            *[Beginner's Guide](doc/nginx/阅读官方文档/初学者指导手册.md)
+* [NGINX](docs/nginx/list.md)
+	* [阅读文档](docs/nginx/guide/summary.md)
+		* [Beginer's Guide](docs/nginx/guide/beginer-guide.md)
