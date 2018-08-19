@@ -1,14 +1,14 @@
 {
-    "title": "huangwjwork's notes",
-    "description": "好记性不如烂笔头，记录日常遇到的问题及学习的成果",
-    "author": "huangwjwork",
+    "title": "Lemon Trees",
+    "description": "整理一些清香的内容",
+    "author": "Louis Tao",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "root": ".",
     "links": {
         "sidebar": {
-            "Home": "https://huangwj.app"
+            "Home": ""
         }
     },
     "plugins": [
@@ -27,7 +27,7 @@
             "showLevel": true
         },
         "github": {
-            "url": "https://github.com/huangwjwork/gitbook"
+            "url": "https://github.com/LouisTao630/blues"
         },
         "include-codeblock": {
             "template": "ace",
@@ -35,12 +35,12 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © huangwjwork 2017",
+            "copyright": "Copyright © louis 2018",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "edit-link": {
-            "base": "https://github.com/huangwjwork/gitbook/edit/master",
+            "base": "https://github.com/LouisTao630/blues/edit/master",
             "label": "Edit This Page"
         },
         "anchor-navigation-ex": {
